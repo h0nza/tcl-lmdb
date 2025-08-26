@@ -1,3 +1,7 @@
+2025-08-26  Danilo Chang  <ray2501@gmail.com>
+
+    * generic/mdb.c: Update LMDB source code.
+
 2025-04-05  Danilo Chang  <ray2501@gmail.com>
 
     * generic/mdb.c: Update LMDB source code.
